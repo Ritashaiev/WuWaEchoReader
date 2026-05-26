@@ -1,2 +1,2 @@
 # WuWaEchoReader
-need local OCR reader
+need local OCR 
